@@ -1,6 +1,6 @@
 <a rel="license" href=""><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
-# The UKRN Open Research Workshop Template
+# Open Science Workshop Series - Preprints
 
 Open Science workshop - via [UKRN Workshop Builder](https://ukrn-wb.netlify.app/).
 
